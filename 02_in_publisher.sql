@@ -1,0 +1,10 @@
+INSERT INTO publisher (publisher_id, publisher_category, publisher_name) VALUES ('PL00001', 'Comic Book', 'Penguin Random House');
+INSERT INTO publisher (publisher_id, publisher_category, publisher_name) VALUES ('PL00002', 'Sci-fi', 'Hachette Livre');
+INSERT INTO publisher (publisher_id, publisher_category, publisher_name) VALUES ('PL00003', 'Fantasy', 'HarperCollins');
+INSERT INTO publisher (publisher_id, publisher_category, publisher_name) VALUES ('PL00004', 'Horror', 'Simon');
+INSERT INTO publisher (publisher_id, publisher_category, publisher_name) VALUES ('PL00005', 'Action', 'Kodansha');
+INSERT INTO publisher (publisher_id, publisher_category, publisher_name) VALUES ('PL00006', 'Humor', 'Scholastic');
+INSERT INTO publisher (publisher_id, publisher_category, publisher_name) VALUES ('PL00007', 'Drama', 'Shueisha');
+INSERT INTO publisher (publisher_id, publisher_category, publisher_name) VALUES ('PL00008', 'Crime', 'Springer Nature');
+INSERT INTO publisher (publisher_id, publisher_category, publisher_name) VALUES ('PL00009', 'History', 'Pearson Education');
+INSERT INTO publisher (publisher_id, publisher_category, publisher_name) VALUES ('PL00010', 'Romance', 'Oxford University Press');

@@ -1,0 +1,10 @@
+insert into category (category_id, category_name) values ('CAT001', 'Romance');
+insert into category (category_id, category_name) values ('CAT002', 'Horror');
+insert into category (category_id, category_name) values ('CAT003', 'Fantasy');
+insert into category (category_id, category_name) values ('CAT004', 'Mystery');
+insert into category (category_id, category_name) values ('CAT005', 'Action');
+insert into category (category_id, category_name) values ('CAT006', 'Comedy');
+insert into category (category_id, category_name) values ('CAT007', 'Thriller');
+insert into category (category_id, category_name) values ('CAT008', 'History');
+insert into category (category_id, category_name) values ('CAT009', 'Romantic Comedy');
+insert into category (category_id, category_name) values ('CAT010', 'Musical');
